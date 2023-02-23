@@ -17,7 +17,7 @@ def div(x: int, y: int) -> int:
 if __name__ == "__main__":
 
     a = 500
-    b = 1500
+    b = 2000
 
     result = prod(a, b)
     print(result)
