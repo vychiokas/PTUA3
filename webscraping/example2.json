@@ -1,0 +1,1 @@
+"{\n  \"student\": [ \n\n     { \n        \"id\":\"01\", \n        \"name\": \"Tom\", \n        \"lastname\": \"Price\" \n     }, \n\n     { \n        \"id\":\"02\", \n        \"name\": \"Nick\", \n        \"lastname\": \"Thameson\",\n        \"status\": null,\n        \"married\": true\n     } \n  ]   \n}"

@@ -19,5 +19,5 @@ if __name__ == "__main__":
     a = 500
     b = 2000
 
-    result = prod(a, b)
+    result = prod(a, b) + "a"
     print(result)

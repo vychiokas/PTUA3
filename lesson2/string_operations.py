@@ -6,4 +6,3 @@ completed_greeting = f"{greeting} {name}"
 
 
 print(greeting + " " + name)
-

@@ -1,0 +1,17 @@
+2023-03-21 19:43:08 - sLogger - main - DEBUG - This is a debug message
+2023-03-21 19:44:40 - sLogger - main - DEBUG - This is a debug message
+2023-03-21 20:52:01 - sLogger - main - DEBUG - debug message
+2023-03-21 20:52:01 - sLogger - main - INFO - info message
+2023-03-21 20:52:01 - sLogger - main - WARNING - warn message
+2023-03-21 20:52:01 - sLogger - main - ERROR - error message
+2023-03-21 20:52:01 - sLogger - main - CRITICAL - critical message
+2023-03-21 20:58:15 - sLogger - main - DEBUG - debug message
+2023-03-21 20:58:15 - sLogger - main - INFO - info message
+2023-03-21 20:58:15 - sLogger - main - WARNING - warn message
+2023-03-21 20:58:15 - sLogger - main - ERROR - error message
+2023-03-21 20:58:15 - sLogger - main - CRITICAL - critical message
+2023-03-22 18:27:21 - sLogger - main - DEBUG - debug message
+2023-03-22 18:27:21 - sLogger - main - INFO - info message
+2023-03-22 18:27:21 - sLogger - main - WARNING - warn message
+2023-03-22 18:27:21 - sLogger - main - ERROR - error message
+2023-03-22 18:27:21 - sLogger - main - CRITICAL - critical message

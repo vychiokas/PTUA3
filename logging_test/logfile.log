@@ -1,0 +1,45 @@
+2023-03-12 18:08:05,181 - sLogger - DEBUG - debug message
+2023-03-12 18:08:05,181 - sLogger - INFO - info message
+2023-03-12 18:08:05,183 - sLogger - WARNING - warn message
+2023-03-12 18:08:05,183 - sLogger - ERROR - error message
+2023-03-12 18:08:05,183 - sLogger - CRITICAL - critical message
+2023-03-12 18:08:19,274 - sLogger - DEBUG - debug message
+2023-03-12 18:08:19,274 - sLogger - INFO - info message
+2023-03-12 18:08:19,274 - sLogger - WARNING - warn message
+2023-03-12 18:08:19,274 - sLogger - ERROR - error message
+2023-03-12 18:08:19,275 - sLogger - CRITICAL - critical message
+2023-03-12 18:15:13 - sLogger - DEBUG - debug message
+2023-03-12 18:15:13 - sLogger - INFO - info message
+2023-03-12 18:15:13 - sLogger - WARNING - warn message
+2023-03-12 18:15:13 - sLogger - ERROR - error message
+2023-03-12 18:15:13 - sLogger - CRITICAL - critical message
+2023-03-12 18:49:18 - sLogger - main - DEBUG - debug message
+2023-03-12 18:49:18 - sLogger - main - INFO - info message
+2023-03-12 18:49:18 - sLogger - main - WARNING - warn message
+2023-03-12 18:49:18 - sLogger - main - ERROR - error message
+2023-03-12 18:49:18 - sLogger - main - CRITICAL - critical message
+2023-03-12 18:49:28 - sLogger - main - DEBUG - debug message
+2023-03-12 18:49:28 - sLogger - main - INFO - info message
+2023-03-12 18:49:28 - sLogger - main - WARNING - warn message
+2023-03-12 18:49:28 - sLogger - main - ERROR - error message
+2023-03-12 18:49:28 - sLogger - main - CRITICAL - critical message
+2023-03-12 18:49:49 - sLogger - bingo - DEBUG - debug message
+2023-03-12 18:49:49 - sLogger - bingo - INFO - info message
+2023-03-12 18:49:49 - sLogger - bingo - WARNING - warn message
+2023-03-12 18:49:49 - sLogger - bingo - ERROR - error message
+2023-03-12 18:49:49 - sLogger - bingo - CRITICAL - critical message
+2023-03-12 19:03:07 - sLogger - bingo - DEBUG - debug message
+2023-03-12 19:03:07 - sLogger - bingo - INFO - info message
+2023-03-12 19:03:07 - sLogger - bingo - WARNING - warn message
+2023-03-12 19:03:07 - sLogger - bingo - ERROR - error message
+2023-03-12 19:03:07 - sLogger - bingo - CRITICAL - critical message
+2023-03-12 19:16:53 - sLogger - bingo - DEBUG - debug message
+2023-03-12 19:16:53 - sLogger - bingo - INFO - info message
+2023-03-12 19:16:53 - sLogger - bingo - WARNING - warn message
+2023-03-12 19:16:53 - sLogger - bingo - ERROR - error message
+2023-03-12 19:16:53 - sLogger - bingo - CRITICAL - critical message
+2023-03-21 20:39:32 - sLogger - bingo - DEBUG - debug message
+2023-03-21 20:39:32 - sLogger - bingo - INFO - info message
+2023-03-21 20:39:32 - sLogger - bingo - WARNING - warn message
+2023-03-21 20:39:32 - sLogger - bingo - ERROR - error message
+2023-03-21 20:39:32 - sLogger - bingo - CRITICAL - critical message
